@@ -1,4 +1,4 @@
-# Hacktoberfest-Hack-Day-2019
+﻿# Hacktoberfest-Hack-Day-2019
 
 An event organised by GNU/Linux Users' Group, NIT Durgapur for the promotion of Hacktoberfest 2019 🎃
 
@@ -52,3 +52,5 @@ git push -u origin (branch name)
 * Go and open a pull request from your fork to the master branch of this repository. :tada:
 
 * Please :star: this repo to make it more visible to new contributors.
+
+thanks for sharing
